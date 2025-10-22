@@ -9,7 +9,7 @@ This repository contains a demonstration video of a cross-platform automated GUI
 
 The video is located here: [video](https://github.com/damienruscoe/GUITestExample/raw/refs/heads/master/gui_test_demo.ogv)
 
-The executed test script is located here: [test script](https://github.com/damienruscoe/GUITestExample/raw/refs/heads/master/gui_test_demo.ogv)
+The executed test script is located here: [test script](gui_test_demo.py)
 
 # TLDR;
 
