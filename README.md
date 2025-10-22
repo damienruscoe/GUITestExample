@@ -4,7 +4,7 @@
 
 This repository contains a demonstration video of a cross-platform automated GUI testing framework developed at Imagination Technologies. The framework successfully eliminated laborious manual GUI testing by providing comprehensive end-to-end automated testing of a debugger application, from the GUI interface through to the connected debug hardware.
 
-![](gui_test_demo.ogv)
+![](https://github.com/damienruscoe/GUITestExample/raw/refs/heads/master/gui_test_demo.ogv)
 
 
 The video is located here: [video](https://github.com/damienruscoe/GUITestExample/raw/refs/heads/master/gui_test_demo.ogv)
